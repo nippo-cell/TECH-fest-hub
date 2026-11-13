@@ -1,0 +1,3 @@
+[submodule "TechFest"]
+	path = TechFest
+	url = https://github.com/yogeshkamisetty/TechFest.git
